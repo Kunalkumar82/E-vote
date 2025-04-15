@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "description": "Advocate for education reform and public health."
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "description": "Focused on economic growth and infrastructure development."
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "description": "Committed to climate action and sustainability."
+    }
+  ]
+  

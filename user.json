@@ -1,0 +1,47 @@
+[
+    {
+        "email": "bannamahendrasingh569@gmail.com",
+        "password": "$2y$10$L822Q8mV4ZNL6MeboqeZ2eUwk.aGdrMB59\/.4.UyzGu5ON2kWGLuK",
+        "ssn_last4": "5858"
+    },
+    {
+        "email": "kkunalstudent7549@gmail.com",
+        "password": "$2y$10$HzIbpO1uFekP6W6bVby77uSyutowKVHgPFtOnB6CGldloIh4pqPry",
+        "ssn_last4": "2345"
+    },
+    {
+        "email": "kkunalkumar7549@gmail.com",
+        "password": "$2y$10$ATj2MkR2mnen.D.oF735ZObQoy3dpB40uuvLHFuoE0KuF1WfCIxRG",
+        "ssn_last4": "3456"
+    },
+    {
+        "email": "kunalkumar23@lpu.in",
+        "password": "$2y$10$1tdirlgdrdG\/JQ3ng0QK4et4IlmT9d4N\/dV2vC92uekG6Az1Viche",
+        "ssn_last4": "0000"
+    },
+    {
+        "email": "ankit.saini231@lpu.in",
+        "password": "$2y$10$U1nKgxBXGiCnV1wFRm6Kx.fWOtEG0pUbQGBPpx5JaOvmOBqoJYjuC",
+        "ssn_last4": "7777"
+    },
+    {
+        "email": "12314573@neocolab.ai",
+        "password": "$2y$10$mq5QqK\/FyfOnRX2RwAzIJOfZqHgaLdbxmSKHTnNMdymOQ7iskL.hi",
+        "ssn_last4": "9999"
+    },
+    {
+        "email": "12306080@neocolab.ai",
+        "password": "$2y$10$.E7FDudZ\/OVEDQEQeeczo.uC6tvIOHK35GJi4GaZT3iXS99GHFZyi",
+        "ssn_last4": "8889"
+    },
+    {
+        "email": "kunal@gamil.com",
+        "password": "$2y$10$5iQ10b0oDacaoDMIJzUVx.F6GASBNi4vArbmf2NdJVXHZ7pxJrSwy",
+        "ssn_last4": "4545"
+    },
+    {
+        "email": "kunal12@gmail.com",
+        "password": "$2y$10$gu21OLd0YlvrbxXtVith0OkYKeLwTlUxlrtRMmMfbx6O4P7wQe7gK",
+        "ssn_last4": "8787"
+    }
+]

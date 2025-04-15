@@ -1,0 +1,20 @@
+// Path to the JSON file
+$votersFile = 'voters.json';
+
+// Function to get all voters
+function getVoters() {
+    global $votersFile;
+    if (file_exists($votersFile)) {
+        return json_decode(file_get_contents($votersFile), true);
+    }
+    return [];
+}
+
+// Function to add a new voter
+function addVoter($voter) {
+    global $votersFile;
+    $voters = getVoters();  // Get existing voters
+    $voter['id'] = count($voters) + 1;  // Auto-increment ID
+    $voters[] = $voter;  // Add the new voter
+    file_put_contents($votersFile, json_encode($voters, JSON_PRETTY_PRINT));  // Save to file
+}
